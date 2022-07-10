@@ -1,12 +1,19 @@
-## Hi there 👋
+<p align="center"><a href="https://kwii.tk" target="_blank" rel="noreferrer noopener"><img width="100%" alt="OtterBot Logo" src="https://i.imgur.com/ZwK8yWn.png"></a><br /></p>
 
-<!--
+###
 
-**Here are some ideas to get you started:**
+<h1 align="center"> <br/> OtterBot for Twitter and Discord<br/><br/></h3>
+<p align="center"><br /><strong>All the adorable otter pictures you could ever want or need.</strong></p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+<p align="center">• Get cute pictures directly to your Twitter feed by following @OttersEveryDay <br/>
+• Browse all prior otters with /otter in Discord with OtterBot<br/>
+• Get new otter pictures added every day of the week, every week of the year, on both platforms.<br/><br/>
+</p>
+<p align="center"><a rel="noreferrer noopener" href="https://discord.com/oauth2/authorize?scope=applications.commands%20bot&permissions=268561488&client_id=994046329678463026"><img alt="Add To Discord" width="200px" src="https://i.imgur.com/dcrHxxq.png"></a><a rel="noreferrer noopener" href="https://twitter.com/OttersEveryDay"><img alt="Add To Discord" width="200px" src="https://i.imgur.com/4ULMWKv.png"></a><br /><br />
+
+
+
+
+
