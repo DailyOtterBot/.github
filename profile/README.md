@@ -11,7 +11,7 @@
 • Browse all prior otters with /otter in Discord with OtterBot<br/>
 • Get new otter pictures added every day of the week, every week of the year, on both platforms.<br/><br/>
 </p>
-<p align="center"><a rel="noreferrer noopener" href="https://discord.com/oauth2/authorize?scope=applications.commands%20bot&permissions=268561488&client_id=994046329678463026"><img alt="Add To Discord" width="200px" src="https://i.imgur.com/dcrHxxq.png"></a><a rel="noreferrer noopener" href="https://twitter.com/OttersEveryDay"><img alt="Add To Discord" width="200px" src="https://i.imgur.com/4ULMWKv.png"></a><br /><br /><br />
+<p align="center"><a rel="noreferrer noopener" href="https://discord.com/api/oauth2/authorize?client_id=994046329678463026&permissions=414464658496&scope=bot%20applications.commands"><img alt="Add To Discord" width="200px" src="https://i.imgur.com/dcrHxxq.png"></a><a rel="noreferrer noopener" href="https://twitter.com/OttersEveryDay"><img alt="Add To Discord" width="200px" src="https://i.imgur.com/4ULMWKv.png"></a><br /><br /><br />
 
 
 ## Support:
